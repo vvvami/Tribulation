@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 2000,
+  "experience": 1,
+  "group": "veil",
+  "ingredient": {
+    "item": "tribulation:veil_dust"
+  },
+  "result": "tribulation:veil_ingot"
+}

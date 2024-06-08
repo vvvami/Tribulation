@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "tribulation:veil_ingot"
+    }
+  },
+  "result": {
+    "item": "tribulation:veil_block"
+  }
+}
